@@ -6,7 +6,7 @@
 /*   By: sofiahinckeldias <sofiahinckeldias@stud    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/01 23:07:33 by sofiahincke       #+#    #+#             */
-/*   Updated: 2023/02/03 15:59:10 by sofiahincke      ###   ########.fr       */
+/*   Updated: 2023/02/03 16:21:02 by sofiahincke      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -84,7 +84,7 @@ int	ft_atoi_base(const char *str, int str_base)
 int main(void)
 {
 	char *aux = "-FF";
-	printf("%i\n", ft_atoi_base(aux, 11));
+	printf("%i\n", ft_atoi_base(aux, 16));
 	return (0);
 }
 
