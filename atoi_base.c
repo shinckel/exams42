@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   atoi_base.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sofiahinckeldias <sofiahinckeldias@stud    +#+  +:+       +#+        */
+/*   By: shinckel <shinckel@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/01 23:07:33 by sofiahincke       #+#    #+#             */
-/*   Updated: 2023/02/03 16:21:02 by sofiahincke      ###   ########.fr       */
+/*   Created: 2023/02/06 12:22:29 by shinckel          #+#    #+#             */
+/*   Updated: 2023/02/06 12:23:03 by shinckel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
